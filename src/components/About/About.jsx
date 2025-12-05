@@ -40,7 +40,7 @@ const About = () => {
             ></Typewriter>
           </h3>
           {/* About me paragraph */}
-          <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-8 mt-8 leading-relaxed">
+          <p className="text-base mr-3 sm:text-lg md:text-lg text-gray-400 mb-8 mt-8 leading-relaxed">
             I am a passionate Full Stack Developer specializing in the MERN
             stack with hands-on experience in React.js, Node.js, Express.js and
             MongoDB. I enjoy creating responsive web designs and developing

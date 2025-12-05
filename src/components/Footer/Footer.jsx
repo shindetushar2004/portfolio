@@ -26,7 +26,7 @@ const Footer = () => {
             <button
               key={index}
               onClick={() => handleScroll(item.id)}
-              className="hover:text-purple-500 text-2xl sm:text-base my-1"
+              className="hover:text-purple-500 text-2sm md:text-lg sm:text-base my-1"
             >
               {item.name}
             </button>
